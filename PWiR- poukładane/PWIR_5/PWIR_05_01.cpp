@@ -59,10 +59,4 @@ getchar();
     return 0;
 }
 
-//Fast in time: 1022 ms
-//Long in time: 6018 ms
-//Thread 0 done work and wait on barrier
-//Thread 1 done work and wait on barrier
-//Thread 0 done work and already finnished
-//Thread 1 done work and already finnished
-//Parallel normal way 6018 ms
+

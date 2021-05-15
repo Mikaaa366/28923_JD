@@ -19,7 +19,7 @@ int32_t i;
 int32_t k;
 
 int main(){
-    //check if vector size == matrix width
+    
     assert(MATRIX_W == VECTOR_S);
 
     //alloc matrix

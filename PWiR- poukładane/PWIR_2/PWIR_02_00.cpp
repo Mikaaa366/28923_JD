@@ -24,5 +24,3 @@ int main(){
     return 0;
 }
 
-//Calculated 9223372030412324865 in 12041 miliseconds
-//Calculated 9223372030412324865 in 12242 miliseconds

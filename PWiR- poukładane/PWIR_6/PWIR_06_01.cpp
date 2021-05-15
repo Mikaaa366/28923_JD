@@ -47,16 +47,4 @@ int main(){
 }
 
 
-//Sections - Thread 0 working...
-//Sections - Thread 1 working ...
-//Iteration 0 execute thread 0.
-//Iteration 1 execute thread 0.
-//Iteration 2 execute thread 0.
-//Iteration 3 execute thread 0.
-//Iteration 4 execute thread 0.
-//Iteration 5 execute thread 1.
-//Iteration 6 execute thread 0.
-//Iteration 7 execute thread 1.
-//Iteration 8 execute thread 0.
-//Iteration 9 execute thread 1.
-//Parallel normal way 5216 ms
+

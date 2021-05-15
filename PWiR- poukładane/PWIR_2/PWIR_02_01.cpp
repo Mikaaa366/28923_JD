@@ -4,7 +4,7 @@
 #include <chrono>
 #include <assert.h>
 
-//matrix * vector
+
 
 #define MATRIX_H 30000
 #define MATRIX_W 30000
@@ -109,7 +109,3 @@ int main(){
 }
 
 
-//Fill in 18567 miliseconds
-//Calculated normal way in 69979 miliseconds
-//Fill parallel way in 3726 miliseconds
-//Calculated parallel way in 22075 miliseconds

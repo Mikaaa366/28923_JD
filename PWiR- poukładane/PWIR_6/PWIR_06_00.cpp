@@ -62,9 +62,4 @@ int main(){
 }
 
 
-//Normal result1=9223372030412324865
-//Normal result2=9223372030412324865
-//Calculated normal way in 29311 miliseconds
-//Sec result2=9223372030412324865 -> watek 2
-//Sec result1=9223372030412324865 -> watek 6
-//Calculated parrallel way in 16561 miliseconds
+

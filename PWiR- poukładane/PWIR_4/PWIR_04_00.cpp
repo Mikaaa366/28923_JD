@@ -79,5 +79,3 @@ int main(){
 }
 
 
-//Sum calculated normal way: 4049687989 in time: 2039 ms
-//Sum calculated parralel way: 4049687989 in time: 475 ms

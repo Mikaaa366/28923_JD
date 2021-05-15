@@ -156,14 +156,4 @@ int main(){
 }
 
 
-//Calculated parallel static way in 25656 miliseconds
-//Calculated parallel static N(MATRIX_H/10) way in 30219 miliseconds
-//Calculated parallel dynamic N(MATRIX_H/10) way in 24857 miliseconds
-//Calculated parallel guided N(MATRIX_H/10) way in 27371 miliseconds
-//Calculated parallel runtime way in 70909 miliseconds
 
-//Calculated parallel static way in 25322 miliseconds
-//Calculated parallel static N(MATRIX_H/10) way in 30359 miliseconds
-//Calculated parallel dynamic N(MATRIX_H/10) way in 22746 miliseconds
-//Calculated parallel guided N(MATRIX_H/10) way in 22641 miliseconds
-//Calculated parallel runtime way in 71274 miliseconds
